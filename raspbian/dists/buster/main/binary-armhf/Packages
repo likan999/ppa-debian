@@ -1,0 +1,20 @@
+Package: tinc
+Version: 1.1~pre17-1.1-0ubuntu0ppa1~202012060503~ubuntu20.04.1
+Architecture: armhf
+Maintainer: Guus Sliepen <guus@debian.org>
+Installed-Size: 1326
+Depends: libc6 (>= 2.28), liblzo2-2, libminiupnpc17 (>= 1.9.20140610), libncurses6 (>= 6), libreadline7 (>= 6.0), libssl1.1 (>= 1.1.0), libtinfo6 (>= 6), zlib1g (>= 1:1.1.4)
+Homepage: https://www.tinc-vpn.org/
+Priority: optional
+Section: net
+Filename: pool/main/t/tinc/tinc_1.1~pre17-1.1-0ubuntu0ppa1~202012060503~ubuntu20.04.1_armhf.deb
+Size: 568212
+SHA256: fe7bbabf7cfe51a5e6ea4eaaac7a731414e58178b626a99ea3a9567f8e7c90ae
+SHA1: fdc36f850af0f644153b862f6062132db6c5ae8a
+MD5sum: 3aea4114f1504ab9f191b709076ca1ef
+Description: Virtual Private Network daemon
+ tinc is a daemon with which you can create a virtual private network
+ (VPN). One daemon can handle multiple connections, so you can
+ create an entire (moderately sized) VPN with only one daemon per
+ participating computer.
+

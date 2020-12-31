@@ -1,0 +1,5 @@
+Component: main
+Origin: likan999.github.io/ppa-debian
+Label: PPA-likan
+Architecture: armhf
+Description: PPA

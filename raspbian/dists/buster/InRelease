@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: likan999.github.io/ppa-debian
+Label: PPA-likan
+Codename: buster
+Date: Fri, 01 Jan 2021 00:11:47 UTC
+Architectures: armhf
+Components: main
+Description: PPA
+MD5Sum:
+ 462792a88dacaa595e18cf177a256106 942 main/binary-armhf/Packages
+ f9a0eef30f39a432c02bc1f574645453 597 main/binary-armhf/Packages.gz
+ 7ab55d0dd5b497d98c20136f2a0296a0 108 main/binary-armhf/Release
+SHA1:
+ 954b563b0b9d149ae0952ad18142d0763c6211a4 942 main/binary-armhf/Packages
+ ba8311dc9dfec1693781e442f2f406677873c466 597 main/binary-armhf/Packages.gz
+ 775b5c94d9c477342c9e06ad4f3009963dfef4e1 108 main/binary-armhf/Release
+SHA256:
+ fc6f6c571c4f42d493335e4907f56e05689221bb11feb6048d735ebde7beddeb 942 main/binary-armhf/Packages
+ fc5a965f30520d0fdceb626f6e9ab5d40d51881e40129987b59191b11157e9a5 597 main/binary-armhf/Packages.gz
+ 657367937514ea9e62fd3ef4c7824e814e89bfe53459bdce0737289aac302220 108 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEAhFjl8bMfTgEWS3FqTODl9t7pawFAl/uaMMACgkQqTODl9t7
+pay1uwv/VJTHNsViaWm+oWdmt/CM22PedGfr1lgrbyh69qfcPGoSFocxqO2qXo19
+1J3Jm040/B4jQtH8r8zzViFfTjxueSzAo3P1e3vpXIxTcozgaQdiLa4sRi6+bX28
+OaToFBCTEOFaqdqRZp3tEgk2ryF8Mx+IQ5p+zOzLrsA+xsfXJqWFNdHyybw8qDzV
+4mniWx5g2EqRvc6Uc2rZta92miPX6Q5a/Vm0XD56qw27PcLvdYCNkxjjSlLttdjs
+xlRYO/R9H+TpvbQ6cJ4EU/ps3W7MPh4rnm9RaHE3AkkTLcoe03l6blTm2GAZBugt
+vR78OaDyNtvAdEp48hNZVHX3/BO1BjKYVce7C0fJrAE31SxxbhXNSt9HELffwVYs
+A1D+H65+aTDnExkXizQZfOAeUB+JazrOfECSHHHd8ME8/vp0Y0V2afvUCKfKBIHW
+BvNogVnX7wuWlK1gYmw9V89uEAfpc+34SncotOaHJ3xaizeYT9ymrkGDM07RfEdp
+/xttmGEx
+=66qe
+-----END PGP SIGNATURE-----
